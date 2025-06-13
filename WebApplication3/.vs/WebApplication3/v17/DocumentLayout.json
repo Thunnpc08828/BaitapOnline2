@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Isc\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|f:\\isc\\webapplication3\\webapplication3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|f:\\isc\\webapplication3\\webapplication3\\model\\assignmentperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\model\\assignmentperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|f:\\isc\\webapplication3\\webapplication3\\model\\assignmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\model\\assignmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|f:\\isc\\webapplication3\\webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|f:\\isc\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|f:\\isc\\webapplication3\\webapplication3\\model\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\model\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|f:\\isc\\webapplication3\\webapplication3\\model\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\model\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|f:\\isc\\webapplication3\\webapplication3\\model\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\model\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|f:\\isc\\webapplication3\\webapplication3\\model\\assignmentperkiosk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\model\\assignmentperkiosk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|f:\\isc\\webapplication3\\webapplication3\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|f:\\isc\\webapplication3\\webapplication3\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507B1B94-61F8-42D7-8067-9FD37F352719}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\Isc\\WebApplication3\\WebApplication3\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Data\\AppDbContext.cs",
+              "ToolTip": "F:\\Isc\\WebApplication3\\WebApplication3\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication3\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:51:40.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "F:\\Isc\\WebApplication3\\WebApplication3\\Model\\Assignment.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Model\\Assignment.cs",
+              "ToolTip": "F:\\Isc\\WebApplication3\\WebApplication3\\Model\\Assignment.cs",
+              "RelativeToolTip": "WebApplication3\\Model\\Assignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:48:54.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service.cs",
+              "DocumentMoniker": "F:\\Isc\\WebApplication3\\WebApplication3\\Model\\Service.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Model\\Service.cs",
+              "ToolTip": "F:\\Isc\\WebApplication3\\WebApplication3\\Model\\Service.cs",
+              "RelativeToolTip": "WebApplication3\\Model\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:48:25.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Device.cs",
+              "DocumentMoniker": "F:\\Isc\\WebApplication3\\WebApplication3\\Model\\Device.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Model\\Device.cs",
+              "ToolTip": "F:\\Isc\\WebApplication3\\WebApplication3\\Model\\Device.cs",
+              "RelativeToolTip": "WebApplication3\\Model\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:48:04.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "F:\\Isc\\WebApplication3\\WebApplication3\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "F:\\Isc\\WebApplication3\\WebApplication3\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T05:09:24.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Isc\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\appsettings.json",
+              "ToolTip": "F:\\Isc\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeToolTip": "WebApplication3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T05:06:47.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Isc\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "F:\\Isc\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T05:05:09.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssignmentStatus.cs",
+              "DocumentMoniker": "F:\\Isc\\WebApplication3\\WebApplication3\\Model\\AssignmentStatus.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Model\\AssignmentStatus.cs",
+              "ToolTip": "F:\\Isc\\WebApplication3\\WebApplication3\\Model\\AssignmentStatus.cs",
+              "RelativeToolTip": "WebApplication3\\Model\\AssignmentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T05:02:05.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssignmentPerService.cs",
+              "DocumentMoniker": "F:\\Isc\\WebApplication3\\WebApplication3\\Model\\AssignmentPerService.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Model\\AssignmentPerService.cs",
+              "ToolTip": "F:\\Isc\\WebApplication3\\WebApplication3\\Model\\AssignmentPerService.cs",
+              "RelativeToolTip": "WebApplication3\\Model\\AssignmentPerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T05:01:39.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssignmentPerKiosk.cs",
+              "DocumentMoniker": "F:\\Isc\\WebApplication3\\WebApplication3\\Model\\AssignmentPerKiosk.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Model\\AssignmentPerKiosk.cs",
+              "ToolTip": "F:\\Isc\\WebApplication3\\WebApplication3\\Model\\AssignmentPerKiosk.cs",
+              "RelativeToolTip": "WebApplication3\\Model\\AssignmentPerKiosk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T05:01:08.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\Isc\\WebApplication3\\WebApplication3\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\Isc\\WebApplication3\\WebApplication3\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication3\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T04:59:40.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
